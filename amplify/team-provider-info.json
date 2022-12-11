@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-petsapp-staging-75226-authRole",
+      "UnauthRoleArn": "arn:aws:iam::754672811056:role/amplify-petsapp-staging-75226-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::754672811056:role/amplify-petsapp-staging-75226-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-petsapp-staging-75226-deployment",
+      "UnauthRoleName": "amplify-petsapp-staging-75226-unauthRole",
+      "StackName": "amplify-petsapp-staging-75226",
+      "StackId": "arn:aws:cloudformation:us-east-1:754672811056:stack/amplify-petsapp-staging-75226/ed0e1730-753a-11ed-a48f-0a527121583b",
+      "AmplifyAppId": "d3glxfmyb06q3w"
+    },
+    "categories": {
+      "auth": {
+        "PetsApp": {}
+      },
+      "api": {
+        "petsapp": {}
+      }
+    }
+  }
+}
